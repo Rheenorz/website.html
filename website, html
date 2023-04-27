@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Rheenorz's Gujarati recipe</h1>
+    <hr>
+    <p>Gujarati cuisine, originating from the western state of Gujarat in India, is renowned for its unique blend of flavors, textures, and vibrant colors. It is predominantly vegetarian, with a wide variety of dishes that showcase the rich agricultural heritage of the region. Gujarati recipes often combine ingredients like lentils, vegetables, spices, and aromatic herbs to create a harmonious balance of taste and <br> <br>
+        <img src="images/indian spices.jpg
+        " alt=""><br>
+
+        One of the distinctive features of Gujarati cuisine is the prominence of sweet and tangy flavors in many dishes. The Gujarati people have a fondness for incorporating sugar or jaggery (unrefined cane sugar) in their recipes, which adds a delightful touch of sweetness. This characteristic can be seen in dishes like Gujarati Kadhi, a yogurt-based curry with a sweet and sour taste, and Dhokla, a steamed savory cake made from fermented rice and chickpea flour, often served with a sweet tamarind chutney. <br> <br> <br>
+        <img src="images/dishes.jpeg" alt=""><br>
+        
+        Undhiyu is a signature Gujarati dish that exemplifies the region's culinary prowess. It is a mixed vegetable curry made with a variety of seasonal vegetables like eggplant, potatoes, beans, and fenugreek dumplings called muthiyas. The dish is cooked with an assortment of spices and fresh herbs, resulting in a fragrant and flavorsome medley of flavors. <br> <br> <br>
+        
+        Gujarati snacks and street food are immensely popular for their lip-smacking taste and versatility. Theplas, a type of flatbread made with whole wheat flour, spices, and often flavored with fenugreek leaves, are a staple snack in Gujarati households. They are perfect for on-the-go eating and are commonly paired with pickles or yogurt. <br> <br> <br>
+        
+        Another beloved Gujarati snack is Khandvi, a delicate roll made from gram flour (chickpea flour) and buttermilk, tempered with mustard seeds and curry leaves. Khandvi is characterized by its smooth, silky texture and subtle flavors. It is a true testament to the artistry and precision involved in Gujarati cooking. <br> <br> <br>
+        
+        Gujarati cuisine also boasts an array of delicious sweets and desserts. Mohanthal, a rich and fudgy dessert made from besan (chickpea flour), ghee (clarified butter), and sugar, is a classic example. It is garnished with almonds, pistachios, and saffron, making it visually appealing and indulgent. <br> <br> <br>
+        
+        To complete a Gujarati meal, one must indulge in a traditional thali, a platter that offers a diverse selection of dishes. It typically includes items like dal (lentil curry), rice, roti (Indian bread), vegetable curry, kadhi, pickles, chutneys, and a variety of snacks and sweets. The thali represents the essence of Gujarati cuisine, with its emphasis on variety and balanced flavors. <br> <br> <br>
+        
+        Gujarati recipes and dishes have gained popularity across the globe for their wholesome and flavorful nature. Whether you're a fan of vegetarian cuisine or simply seeking to explore new culinary horizons, Gujarati food is sure to captivate your taste buds with its distinct and delightful offerings.</p> <br> 
+
+
+        <p>There are different types of Gujarati recipies such as :
+            <ol>
+                <li><a href="Nasta recipe.html" title="a new tab will open">Nasta recipe</a></a></li><br>
+                <iframe width="648" height="365" src="https://www.youtube.com/embed/97YnPbfh2Cw" title="6 गुजराती नाश्ते की रेसिपी | 6 Gujarati Breakfast Recipes | easy breakfast recipe |breakfast recipe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <li><a href="Shak recipe.html"title="a new tab will open">Shak recipe</a></li><br>
+                <iframe width="1080" height="608" src="https://www.youtube.com/embed/LKu5O8j4vDA" title="Mix Vegetable Sabzi - Gujarati Shaak Recipe in Hindi by Cooking with Smita | Mix Veg Sabji" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                <li><a href="Fastfood recipe.html"title="a new tab will open">Fastfood recipe</a></li><br>
+                <iframe width="648" height="365" src="https://www.youtube.com/embed/bys68jQKQ6s" title="gujarati snacks recipes | popular evening gujarati snacks | gujarati appetiser recipes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                <li><a href="Athana recipe.html"title="a new tab will open">Athana recipe</a></li><br>
+                <iframe width="1080" height="608" src="https://www.youtube.com/embed/TP6CzLq-IKQ" title="ગુંદાનું અથાણું || ગુણકારી ગુંદાનું અથાણુ gunda nu athanu || athanu recipe in gujarati athana recipe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                <li><a href="Sweets recipe.html"title="a new tab will open">Sweets recipe</a></li><br>
+                <iframe width="648" height="365" src="https://www.youtube.com/embed/lWJTCXNGP-I" title="mohanthal recipe | famous gujarati sweet dish | diwali recipes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                <li><a href="Mukhwas recipe.html"title="a new tab will open">Mukhwas recipe</a></li><br>
+                <iframe width="1080" height="608" src="https://www.youtube.com/embed/OsG9cDiaQ4E" title="મુખવાસ બનાવવાની રીત ||Home made Mukhwas recipe In Gujarati||" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                <li><a href="juice recipe.html"title="a new tab will open"><h4>Juice recipe</h4></a></li><br>
+                <iframe width="1080" height="608" src="https://www.youtube.com/embed/KN5d36muTUw" title="આ નવી રીત થી બનાવો ઓરેન્જ જ્યુસ  Juice  Recipe In Gujarati Language [gujarati cooking house]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </ol>
+        </p>
+    
+</body>
+</html>
